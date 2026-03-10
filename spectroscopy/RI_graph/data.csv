@@ -1,0 +1,21 @@
+Material,Type,443.4nm,519.4nm,652.9nm,Show Label,Label Position,Include,Color Override
+0434,Meta,2.24,2.11,2.04,Yes,right,Yes
+0428,Meta,2.2231,2.1294,2.0587,Yes,right,Yes,
+0400,Meta,2.26,2.1,2.00,Yes,right,Yes,
+0384,Meta,??,2.23,??,Yes,right,Yes,
+0367,Meta,2.77,2.45,2.26,Yes,right,Yes,
+0366,Meta,2.71,2.43,2.25,Yes,right,Yes,
+0363,Meta,2.43,2.27,2.18,Yes,right,Yes,
+0356,Meta,2.65,2.42,2.29,Yes,right,Yes,
+0350,Meta,2.66,2.39,2.23,Yes,right,Yes,
+0348,Meta,2.75,2.51,2.33,Yes,right,Yes,
+0344,Meta,2.17,1.82,1.58,Yes,right,Yes,
+0334,Meta,2.09,1.68,1.57,Yes,right,Yes,
+0259,CCDC,2.85,2.64,2.38,Yes,left,Yes,#B61D95
+0084,CCDC,3.05,2.68,2.34,Yes,left,Yes,#B61D95
+0029,CCDC,2.7,2.49,2.29,Yes,left,Yes,#B61D95
+0026,CCDC,2.55,2.37,2.26,Yes,left,Yes,#B61D95
+0011,CCDC,2.46,2.3,2.2,Yes,left,Yes,#B61D95
+2-ON,Merck,2.18,2.09,2.05,Yes,left,Yes,#0E7A00
+Pyrene,CCDC,2.38,2.21,2.13,Yes,left,Yes,#B61D95
+3-PB,CCDC,1.92,1.88,1.85,Yes,left,Yes,#B61D95
